@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508348263 source:c:\users\vader\gitrepozytory\checksum\checksum\main.c
+	<stdio.h>
+	<stdlib.h>
+
