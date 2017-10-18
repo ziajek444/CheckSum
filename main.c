@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Check Sum !\n");
+    printf("CheckSum !\n");
     return 0;
 }
